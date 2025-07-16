@@ -41,7 +41,7 @@ module.exports = {
     
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",  // Custom reaction emojis
     
-    STICKER_NAME: process.env.STICKER_NAME || "MEGALODON-MD",     // Sticker pack name
+    STICKER_NAME: process.env.STICKER_NAME || "MEGALODON~MD~cNx3BYKK#MpwCmiz7OJ19IB697cuuoMkI5UxiNhc-Dq5Nh6IHivk",     // Sticker pack name
 
     
     // ===== MEDIA & AUTOMATION =====
